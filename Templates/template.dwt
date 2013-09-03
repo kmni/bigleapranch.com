@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<!-- TemplateInfo codeOutsideHTMLIsLocked="true" -->
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neithe r/ -->
+<!--[if (lt IE 7)]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7])><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if (IE 8)]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 8)]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>Big Leap Ranch</title>
+  <!-- TemplateEndEditable -->
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  <link rel="stylesheet" href="../stylesheets/foundation.min.css">
+  <link rel="stylesheet" href="../stylesheets/app.css">
+  <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab' rel='stylesheet' type='text/css'>
+  <script src="../javascripts/modernizr.foundation.js"></script>
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+</head>
+<body>
+
+<div class="masthead">
+  <div class="row">
+    <div class="nine columns">
+        <img src="../images/logo.png" width="158" height="138" alt="Big Leap Ranch">
+    </div>
+    <div class="three columns registered">
+        <em>AMHA &amp; AMHR Registered</em>
+    </div>
+  </div>
+</div>
+
+<div class="content">
+  <div class="row menu">
+    <div class="no-pad twelve columns">
+	<!-- TemplateBeginEditable name="slideshow" -->
+    <!-- TemplateEndEditable -->
+      <ul class="nav-bar">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about-us.html">About Us</a></li>
+        <li><a href="../stallions.html">Stallions</a></li>
+        <li><a href="../mares.html">Mares</a></li>
+        <li><a href="../foals.html">Foals</a></li>
+        <li><a href="../sale-offerings.html">Sale Offerings</a></li>
+        <li><a href="../ranch-tour.html">Ranch Tour</a></li>
+        <li><a href="../show-time.html">Show Time</a></li>
+        <li><a href="../news.html">News</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+
+<!-- TemplateBeginEditable name="content" -->
+  <div class="row">
+    <div class="six columns">
+      <h4>About Big Leap Ranch</h4>
+      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <p><a href="#" class="smlink right">About Big Leap Ranch &rarr;</a></p>
+    </div>
+    <div class="four columns offset-by-two">
+      <h4>News</h4>
+      <div class="newsitem"> <span>January, 2013</span> Sed ut perspiciatis unde omnis iste natus error sit voluptatem <a href="#">...Continue</a> </div>
+      <div class="newsitem"> <span>December, 2012</span> Sed ut perspiciatis unde omnis iste natus error sit voluptatem <a href="#">...Continue</a> </div>
+      <div class="newsitem"> <span>November, 2012</span> Sed ut perspiciatis unde omnis iste natus error sit voluptatem <a href="#">...Continue</a> </div>
+      <p><a href="#" class="smlink right">View All News &rarr;</a></p>
+    </div>
+  </div>
+  <!-- TemplateEndEditable -->
+</div>
+
+  <footer>
+      <div class="row">
+        <div class="two columns">
+            <img src="../images/logo.png"  alt="Big Leap Ranch">
+        </div>
+        <div class="ten columns">
+          <ul class="link-list right">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../about-us.html">About Us</a></li>
+            <li><a href="../stallions.html">Stallions</a></li>
+            <li><a href="../mares.html">Mares</a></li>
+            <li><a href="../foals.html">Foals</a></li>
+            <li><a href="../sale-offerings.html">Sale Offerings</a></li>
+            <li><a href="../ranch-tour.html">Ranch Tour</a></li>
+            <li><a href="../news.html">News</a></li>
+            <li><a href="../contact.html">Contact</a></li>
+          </ul>
+          <p>&copy; 2012 Big Leap Ranch | Design: <a href="http://www.KMNI.com" target="_blank">KMNI.com</a></p>
+        </div>
+      </div>
+  </footer>
+<!-- TemplateBeginEditable name="js" -->  
+<script src="../javascripts/jquery.js"></script>
+<script src="../javascripts/foundation.min.js"></script>
+<script type="text/javascript">
+   $(window).load(function() {
+       $("#featured").orbit();
+   });
+</script>
+<script src="../javascripts/app.js"></script>
+  <!-- TemplateEndEditable -->
+</body>
+</html>
